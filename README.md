@@ -1,4 +1,4 @@
-**Game Projects**
+# Game Projects
 
 Welcome to my Game Projects repository! Here you will find a collection of games I have developed, showcasing my technical skills, architectural decisions, and design capabilities.
 
@@ -21,3 +21,8 @@ Welcome to my Game Projects repository! Here you will find a collection of games
 * **Singleton Pattern:** Used for global systems requiring persistent state across scenes, such as the `AudioManager` (for continuous music playback during restarts) and `SaveManager` (for handling high scores).
 * **Custom Arcade Physics:** Rather than relying on complex, performance-heavy tire friction models, the car utilizes a custom vector-based controller. It interpolates (Lerps) the velocity vector towards the car's orientation based on a "Grip" coefficient, allowing for highly tunable and satisfying arcade drifting mechanics.
 * **Dynamic Audio Modulation:** Implemented a system that modulates the pitch of the engine based on speed, and smoothly adjusts the volume of the tire screeches based on the drift angle and speed for seamless auditory feedback.
+
+
+
+https://github.com/user-attachments/assets/55aa508e-0c30-47e1-b2ee-5f62a2890cba
+
